@@ -1,6 +1,4 @@
-"""Configuration applicative : chargement des variables d'environnement.
-
-"""
+"""Configuration applicative : chargement des variables d'environnement."""
 
 from __future__ import annotations
 
